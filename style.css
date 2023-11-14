@@ -1,0 +1,22 @@
+div{
+  
+    padding: 7px;
+    margin: 2%;
+    border-radius: 1em;
+}
+.bgred{
+    background-color: red;
+}
+.scpurple{
+    background-color: purple;
+}
+#mathematics{
+    width: 50%;
+    background-color: green;
+}
+.div1{
+    display: flex;
+}
+#div2{
+    display: flex;
+}
